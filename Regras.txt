@@ -1,0 +1,39 @@
+Regras:
+
+1. Escolha de Sabores:
+   O cliente pode escolher entre quatro sabores. É necessário confirmar se temos todos os ingredientes disponíveis; caso contrário, o processo deve ser reiniciado.
+
+2. Tempo de Forno:
+   O bolo precisa de pelo menos 40 minutos no forno para ficar pronto. Deve ser feita uma checagem do tempo específico para cada sabor (exemplo: bolo de chocolate demora 60 minutos).
+
+3. Escolha de Coberturas:
+   O cliente pode escolher até 10 tipos de coberturas.
+
+4. Disponibilidade de Ingredientes para Coberturas:
+   Verificar se há ingredientes disponíveis para preparar as coberturas escolhidas.
+
+5. Forma de Pagamento:
+   Aceitamos pagamento via débito, crédito, Pix ou pagamento na entrega.
+============================================================================================================================================================================================
+
+Algoritmo: Receita de Bolo
+
+1. Iniciar Receita
+
+2. Atender o Cliente:
+   Perguntar qual bolo o cliente deseja.
+
+3. Verificar Ingredientes:
+   Checar se todos os ingredientes necessários para o bolo escolhido estão disponíveis.
+
+4. Se os ingredientes estiverem disponíveis:
+   4.1 Verificar se é necessário pré-aquecer o forno.
+   4.2 Se sim, ligar o forno na temperatura correta.
+
+5. Iniciar Preparo do Bolo
+
+6. Após finalizar os bolos do cliente embale-os.
+   6.1 Verificar a forma de pagamento: Crédito, Débito, Pix, Cheque, Carne, Boleto para 30 dias ou na entrega.
+   6.2 Realizar o pagamento.
+
+============================================================================================================================================================================================
