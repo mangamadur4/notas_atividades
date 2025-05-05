@@ -12,8 +12,7 @@ Regras:
 4. Disponibilidade de Ingredientes para Coberturas:
    Verificar se há ingredientes disponíveis para preparar as coberturas escolhidas.
 
-5. Forma de Pagamento:
-   Aceitamos pagamento via débito, crédito, Pix ou pagamento na entrega.
+
 ============================================================================================================================================================================================
 
 Algoritmo: Receita de Bolo
